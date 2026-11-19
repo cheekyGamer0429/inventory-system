@@ -1,6 +1,8 @@
 # inventory-system
 This is an inventory system designed to aid people with their inventory.
-# process
-hello the process is sort inventory.
-# be careful with inventory
-wrong inputs can lead to errors
+
+# Process
+This will ask the user for items in the inventory then sort it.
+
+# Helpful Learning Resources
+Here are helpful learning resources.
